@@ -40,7 +40,7 @@ This section documents the topics covered in our bi-weekly meetings. Each meetin
 | Date         | Meeting # | Topic                                          | Core Concepts Taught                     | Slides / Materials                              |
 | :----------- | :-------- | :--------------------------------------------- | :--------------------------------------- | :---------------------------------------------- |
 | **[8-28-25]**   | **01**    | **Launch Day: Building Your First Website**      | HTML structure, CSS styling, Replit basics | [https://prezi.com/view/tXET8BnLRUEK3DwSd1wG/]    |
-| **[Date]**   | **02**    | **Talking to The Internet: APIs & Terminology**  | APIs, GUI, Functions, Logic, Data        | [Link to your Google Slides presentation #2]    |
+| **[9-2-25]**   | **02**    | **Talking to The Internet: APIs & Terminology**  | APIs, GUI, Functions, Logic, Data        | [https://prezi.com/view/HqEV5ygK4d8c6pPvBpXD/]    |
 | **[Date]**   | **03**    | **Club Suggestion Box: Intro to Databases**      | Databases, Data Persistence, Forms       | [Link to your Google Slides presentation #3]    |
 | *[Add New Row]* | *[+1]*       | *[Topic of Next Meeting]*                     | *[Concepts...]*                          | *[Link...]*                                     |
 
