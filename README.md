@@ -40,8 +40,11 @@ This section documents the topics covered in our bi-weekly meetings. Each meetin
 | Date         | Meeting # | Topic                                          | Core Concepts Taught                     | Slides / Materials                              |
 | :----------- | :-------- | :--------------------------------------------- | :--------------------------------------- | :---------------------------------------------- |
 | **[8-28-25]**   | **01**    | **Launch Day: Building Your First Website**      | HTML structure, CSS styling, Replit basics | [https://prezi.com/view/tXET8BnLRUEK3DwSd1wG/]    |
-| **[9-2-25]**   | **02**    | **Talking to The Internet: APIs & Terminology**  | APIs, GUI, Functions, Logic, Data        | [https://prezi.com/view/HqEV5ygK4d8c6pPvBpXD/]    |
-| **[Date]**   | **03**    | **Club Suggestion Box: Intro to Databases**      | Databases, Data Persistence, Forms       | [Link to your Google Slides presentation #3]    |
+| **[9-2-25]**   | **02**    | **Talking to The Internet: APIs & Terminology**  | APIs, GUI, Functions, Logic, Data, **REAL API KEY PROJECT**        | [https://prezi.com/view/HqEV5ygK4d8c6pPvBpXD/]    |
+| **[9-10-25]**   | **03**    | **Club Suggestion Box: Intro to Databases**      | Databases, Data Persistence, Forms       | [https://prezi.com/p/-cpkrksc6zc-/?present=1)]    |
+| **[9-21-25]** | **04**       | **The Shout-Out Wall Project**                     | Arrays, bi-directional sync                          | *[https://prezi.com/p/hnlyho23lpgu/?present=1]*                                     |
+| **[10-8-25]** | *[+1]*       | **Intro to CSS & HTML**                     | HTML & CSS differences, functionalities                          | *[https://prezi.com/p/-cpkrksc6zc-/?present=1]*                                     |
+| *[Add New Row]* | *[+1]*       | *[Topic of Next Meeting]*                     | *[Concepts...]*                          | *[Link...]*                                     |
 | *[Add New Row]* | *[+1]*       | *[Topic of Next Meeting]*                     | *[Concepts...]*                          | *[Link...]*                                     |
 
 *This table will be updated after every meeting.*
