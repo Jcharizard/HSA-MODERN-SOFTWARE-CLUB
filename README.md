@@ -2,7 +2,7 @@
 
 ![HSA Modern Software Club Banner](https://via.placeholder.com/1280x320/282c34/61dafb.png?text=HSA+Modern+Software+Club)
 
-Welcome to the official repository for the HSA Modern Software Club. I am [Jhonny Alvarado], the founder and president of this initiative. This repository serves as a living document and portfolio, detailing the club's mission, curriculum, meeting structure, and my leadership role in fostering a new generation of student developers at [Pierre Barbaglia Shaheen Highschool].
+Welcome to the official repository for the HSA Modern Software Club. I am **Jhonny Alvarado**, the founder and president of this initiative. This repository serves as a living document and portfolio, detailing the club's mission, curriculum, meeting structure, and my leadership role in fostering a new generation of student developers at **[Pierre Barbaglia Shaheen Highschool].**
 
 After the previous computer science club became inactive, I identified a strong student desire for a practical, project-focused, and modern coding club. I founded this club in Fall 2023 with a mission to teach not just code, but how to think, problem-solve, and build like a modern software engineer.
 
@@ -43,8 +43,8 @@ This section documents the topics covered in our bi-weekly meetings. Each meetin
 | **[9-2-25]**   | **02**    | **Talking to The Internet: APIs & Terminology**  | APIs, GUI, Functions, Logic, Data, **REAL API KEY PROJECT**        | [https://prezi.com/view/HqEV5ygK4d8c6pPvBpXD/]    |
 | **[9-10-25]**   | **03**    | **Club Suggestion Box: Intro to Databases**      | Databases, Data Persistence, Forms       | [https://prezi.com/p/-cpkrksc6zc-/?present=1)]    |
 | **[9-21-25]** | **04**       | **The Shout-Out Wall Project**                     | Arrays, bi-directional sync                          | *[https://prezi.com/p/hnlyho23lpgu/?present=1]*                                     |
-| **[10-8-25]** | *[+1]*       | **Intro to CSS & HTML**                     | HTML & CSS differences, functionalities                          | *[https://prezi.com/p/-cpkrksc6zc-/?present=1]*                                     |
-| *[Add New Row]* | *[+1]*       | *[Topic of Next Meeting]*                     | *[Concepts...]*                          | *[Link...]*                                     |
+| **[10-8-25]** | **05**       | **Intro to CSS & HTML**  | HTML & CSS differences, functionalities| *[https://prezi.com/p/-cpkrksc6zc-/?present=1]*                                     |
+| **[10-15-25]** | **06**       | **Intro to HTML**               | **Boilerplates, header & p tags, href**                          | *[https://prezi.com/view/ScHa7qCaVZzehybG3dvo]*                                     |
 | *[Add New Row]* | *[+1]*       | *[Topic of Next Meeting]*                     | *[Concepts...]*                          | *[Link...]*                                     |
 
 *This table will be updated after every meeting.*
@@ -67,7 +67,7 @@ As founder and president, my responsibilities extend beyond teaching code.
 
 *   **Curriculum Design:** Developing and structuring a comprehensive, project-based curriculum suitable for a wide range of skill levels.
 *   **Mentorship:** Providing one-on-one guidance during meetings, helping students debug code and structure their project logic, bridging the gap between an idea and its execution.
-*   **Community Management:** Fostering an inclusive, collaborative, and energetic environment. Grew club attendance from 0 to **15+ active members** in the first meeting.
+*   **Community Management:** Fostering an inclusive, collaborative, and energetic environment. Grew club attendance from 0 to **25+ active members** in the first meeting.
 *   **Logistics & Administration:** Liaising with school faculty to secure resources (classroom space, faculty sponsorship) and managing all club communications.
 
 This experience has been invaluable in honing my skills in technical communication, project management, and leadership.
